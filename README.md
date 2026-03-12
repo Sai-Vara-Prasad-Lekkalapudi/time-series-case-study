@@ -145,4 +145,4 @@ Please refer to the full report for complete citation details.
 
 Repository link from the report:
 
-**Sai-Vara-Prasad-Lekkalapudi/time-series-case-study**
+https://github.com/Sai-Vara-Prasad-Lekkalapudi/time-series-case-study
